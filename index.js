@@ -2,7 +2,7 @@ const parse = require('csv-parse/lib/sync')
 
 const fs = require('fs')
 
-const input = fs.readFileSync('./history.csv')
+const input = fs.readFileSync('./music_art_history.CSV')
 
 const records = parse(input, {
     columns: true,
@@ -30,15 +30,16 @@ records.forEach(record => {
             "tid": tid,
             "ts": ymd2t(start),
             "ph": "I",
-            "name": record.name
+            "name": record.Name
         })
     } else {
+        const dur = ymd2t(end) - ymd2t(start);
         history.push({
             "pid": 1,
             "tid": tid,
             "ts": ymd2t(start),
             "name": record.name,
-            "dur": ymd2t(end) - ymd2t(start)
+            "dur": dur < 0 ? 1: dur
         })
     }
 })
