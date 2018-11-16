@@ -1,0 +1,1 @@
+[{"pid":1,"tid":1,"ts":1,"ph":"X"},{"pid":1,"tid":1,"ts":1990200,"name":"war_complete","dur":20481},{"pid":1,"tid":1,"ts":1950861,"ph":"I","name":"war_instant"},{"pid":1,"tid":2,"ts":1800481,"name":"society_complete","dur":49644},{"pid":1,"tid":2,"ts":1840503,"ph":"I","name":"society_instant"}]
