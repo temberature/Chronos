@@ -1,5 +1,83 @@
 name,start,end,type
-war_complete,19900212,20100805,war
-war_instant,19501010,-,war
-society_complete, 18000523, 18500115, society
-society_instant, 18400601, -, society
+威尼斯共和国,800,1797,political
+教宗国,800,1929,political
+神圣罗马帝国,962,1806,political
+桨帆战船,1000,1600,technology
+哈布斯堡王朝,1020,1780,political
+佛罗伦萨共和国,1115,1532,political
+那不勒斯王国,1282,1816,political
+文艺复兴,1300,1700,society
+百年战争,1337,1453,war
+米兰公国,1395,1797,political
+意大利战争,1494,1559,war
+意大利战争1,1494,1498,war
+意大利战争2,1499,1504,war
+意大利战争3,1508,1516,war
+意大利战争4,1521,1530,war
+意大利战争5,1536,1538,war
+意大利战争6,1542,1546,war
+意大利战争7,1551,1559,war
+弗朗索瓦一世,1494,15470331,statesman
+奥斯曼帝国,1299,1923,political
+明朝,1368,1644,political
+威尼斯土耳其战争,1396,1718,war
+费尔南多二世 (阿拉贡),1452,1516,statesman
+安德烈亚·多里亚,1466,1560,statesman
+（教宗）克勉七世,1523,1534,religion
+（教宗）保禄三世,1534,1549,religion
+（教宗）儒略三世,15500207,15550323,religion
+（教宗）玛策禄二世,15550410,15550501,religion
+保祿四世,14760628,15590818,religion
+（教宗）保祿四世,15550523,15590818,religion
+（教宗）庇护四世,1559,1565,religion
+马丁·路德,1483,1546,religion
+夏尔三世·德·波旁,1490,1527,statesman
+亨利八世,1491,1547,statesman
+格拉纳达陷落,1492,-,war
+西班牙殖民美洲,1492,1832,war
+安内 (蒙莫朗西公爵),14930315,15671112,statesman
+查理五世,15000224,15580921,statesman
+海盗,1500,1723,war
+奥斯曼-波斯战争,1500,1900,war
+萨非王朝,1501,1736,political
+斐迪南一世 (神圣罗马帝国),1503,1564,statesman
+费尔南多·阿尔瓦雷斯·德·托莱多，第三代阿尔瓦公爵,1507,1582,statesman
+玛丽一世 (英格兰),15160218,15581117,statesman
+宗教改革,1517,1648,religion
+弗朗索瓦·德·洛林，第二代吉斯公爵,15190224,15630218,statesman
+亨利二世 (法兰西),15190331,15590710,statesman
+帕维亚战役,15250224,-,war
+Treaty of Madrid《马德里条约》,15260114,-,war
+第一次摩哈赤战役,1526,-,war
+罗马之劫,15270506,,war
+施马尔卡尔登联盟,1531,1555,political
+奥斯曼-萨非战争,1532,1555,war
+英格兰宗教改革,1534,-,religion
+阿劳卡尼亚战争,1536,1883,war
+Ottoman–Portuguese conflicts,1538,1559,war
+反宗教改革,1545,1648,religion
+特利腾大公会议,1545,1563,religion
+Schmalkaldic War施马尔卡尔登战争,1546,1547,war
+Second Margrave War,1552,1555,war
+利沃尼亚战争,1558,1583,war
+查理九世 (法兰西),15500627,15740530,statesman
+Chichimeca War,1550,1590,war
+"Siege of Tripoli
+的黎波里的陷落",1551,-,war
+"Second Schmalkaldic War
+第二次施马尔卡尔登战争",1552,1555,war
+"Battle of Mühlberg
+穆赫尔堡战役",1547,-,war
+腓力二世,1527,1598,statesman
+《The Treaty of Vaucelles沃塞尔停战协定》,15560205,-,war
+法国-奥斯曼帝国联盟,1536,1798,political
+老同盟Auld Alliance,1295,1560,political
+《Treaty of Chambord香波尔条约》,15520115,-,war
+Battle of Renty,1554,-,war
+奥格斯堡和约,1555,-,religion
+Battle of St. Quentin圣康坦之战,15570810,-,war
+伊丽莎白,1558,1603,statesman
+《Peace of Cateau-Cambrésis卡托-康布雷锡和约》,1559,-,war
+《Treaty of Edinburgh爱丁堡条约》,1560,-,war
+法国宗教战争,1562,1598,war
+八十年战争,1568,1648,war
