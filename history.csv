@@ -1,14 +1,78 @@
 name,start,end,type
+奥古斯都,-63,14,political
+使徒时代,33,100,religion
+塔西陀,55,117,society
+西罗马帝国,286,476,political
+拜占庭帝国,333,1453,political
+盎格鲁-撒克逊英格兰,400,1066,political
+诺曼征服英格兰,1066,-,war
+黑斯廷斯战役,1066,-,war
+墨洛温王朝,481,751,political
+法兰克王国,481,843,political
+萨利克法,500,-,political
+骑士,700,1600,war
+封建制度 (欧洲),800,1500,society
+矮子丕平,714,768,political
+查理曼,742,814,political
+加洛林王朝,751,899,political
+维京时代,790,1066,society
+马穆鲁克,800,1600,political
 威尼斯共和国,800,1797,political
+卡洛林文艺复兴,800,900,society
 教宗国,800,1929,political
+凡尔登条约,843,-,war
+墨尔森条约,870,-,war
+奥托王朝,919,1024,political
 神圣罗马帝国,962,1806,political
+法兰西王国,987,1792,political
+卡佩王朝,987,1328,political
+瓦卢瓦王朝,1328,1589,political
 桨帆战船,1000,1600,technology
+东西教会大分裂,1000,1100,religion
+诺曼底王朝,1066,1135,political
+金雀花王朝,1154,1399,political
+叙任权斗争,1076,1122,society
+沃尔姆斯宗教协定,1122,-,religion
 哈布斯堡王朝,1020,1780,political
+勃艮第公国,1032,1477,political
+第一次十字军东征,1096,1099,religion
+牛津大学,1096,-,society
+剑桥大学,1209,-,society
+耶路撒冷围城战,1099,-,religion
+圈地运动,1100,1900,society
 佛罗伦萨共和国,1115,1532,political
+第二次十字军东征,1145,1149,religion
+第三次十字军东征,1189,1192,religion
+第四次十字军东征,1202,1204,religion
+巴黎大学,1200,1793,society
+巴黎大学,1896,1970,society
+大宪章,1215,1217,society
+巴黎条约,1259,-,war
+但丁·阿利吉耶里,1265,1321,society
+乔托·迪·邦多纳,1267,1337,society
+教宗选举,1268,1271,religion
+第九次十字军东征,1271,1272,religion
 那不勒斯王国,1282,1816,political
 文艺复兴,1300,1700,society
+弗朗切斯科·彼特拉克,1304,1374,society
+乔万尼·薄伽丘,1313,1375,society
 百年战争,1337,1453,war
+杰弗里·乔叟,1343,1400,society
+黑死病,1347,1353,society
+扬·胡斯,1371,1415,society
+天主教会大分裂,1378,1417,religion
 米兰公国,1395,1797,political
+意大利文艺复兴,1400,1600,society
+胡斯战争,1419,1434,war
+美第奇家族,1434,1737,political
+活字印刷术,1440,-,society
+桑德罗·波提切利,1445,1510,society
+洛伦佐·德·麦第奇,1449,1492,political
+列奥纳多·达·芬奇,1452,1519,society
+德西德里乌斯·伊拉斯谟,1466,1536,society
+米开朗基罗,1475,1564,society
+南锡战役,1477,-,war
+拉斐尔,1483,1520,society
 意大利战争,1494,1559,war
 意大利战争1,1494,1498,war
 意大利战争2,1499,1504,war
@@ -21,27 +85,41 @@ name,start,end,type
 奥斯曼帝国,1299,1923,political
 明朝,1368,1644,political
 威尼斯土耳其战争,1396,1718,war
+乔瓦尼·贝利尼,1430,1516,society
 费尔南多二世 (阿拉贡),1452,1516,statesman
+玫瑰战争,1455,1485,war
 安德烈亚·多里亚,1466,1560,statesman
+博斯沃思原野战役,1485,-,war
+《乌托邦》,1516,-,society
+English Renaissance,1520,1620,society
 （教宗）克勉七世,1523,1534,religion
 （教宗）保禄三世,1534,1549,religion
 （教宗）儒略三世,15500207,15550323,religion
 （教宗）玛策禄二世,15550410,15550501,religion
 保祿四世,14760628,15590818,religion
 （教宗）保祿四世,15550523,15590818,religion
+波旁王朝,1555,1964,political
 （教宗）庇护四世,1559,1565,religion
+阿尔布雷希特·丢勒,1471,1528,society
+托马斯·莫尔,1478,1535,society
 马丁·路德,1483,1546,religion
+提齐安诺·维伽略,1488,1576,society
 夏尔三世·德·波旁,1490,1527,statesman
 亨利八世,1491,1547,statesman
 格拉纳达陷落,1492,-,war
 西班牙殖民美洲,1492,1832,war
 安内 (蒙莫朗西公爵),14930315,15671112,statesman
+弗朗索瓦·拉伯雷,1493,1553,society
+法国文艺复兴,1494,1610,society
 查理五世,15000224,15580921,statesman
 海盗,1500,1723,war
 奥斯曼-波斯战争,1500,1900,war
 萨非王朝,1501,1736,political
 斐迪南一世 (神圣罗马帝国),1503,1564,statesman
+（教宗）儒略二世,1503,1513,religion
+宗座瑞士近卫队,1506,2018,war
 费尔南多·阿尔瓦雷斯·德·托莱多，第三代阿尔瓦公爵,1507,1582,statesman
+《愚人颂》,1509,1511,society
 玛丽一世 (英格兰),15160218,15581117,statesman
 宗教改革,1517,1648,religion
 弗朗索瓦·德·洛林，第二代吉斯公爵,15190224,15630218,statesman
@@ -52,6 +130,7 @@ Treaty of Madrid《马德里条约》,15260114,-,war
 罗马之劫,15270506,,war
 施马尔卡尔登联盟,1531,1555,political
 奥斯曼-萨非战争,1532,1555,war
+威廉一世 (奥兰治),1533,1584,political
 英格兰宗教改革,1534,-,religion
 阿劳卡尼亚战争,1536,1883,war
 Ottoman–Portuguese conflicts,1538,1559,war
@@ -80,4 +159,15 @@ Battle of St. Quentin圣康坦之战,15570810,-,war
 《Peace of Cateau-Cambrésis卡托-康布雷锡和约》,1559,-,war
 《Treaty of Edinburgh爱丁堡条约》,1560,-,war
 法国宗教战争,1562,1598,war
+威廉·莎士比亚,1564,1616,society
 八十年战争,1568,1648,war
+南特敕令,1598,-,religion
+中国礼仪之争,1600,1800,society
+三十年战争,1618,1648,war
+布拉格抛窗事件,1618,-,war
+威斯特伐利亚和约,1648,-,war
+安东尼·范·列文虎克,1632,1723,society
+伦敦大瘟疫,1665,1666,society
+马赛大瘟疫,1720,1722,society
+法国大革命,1789,1799,society
+第二次梵蒂冈大公会议,1962,-,religion
